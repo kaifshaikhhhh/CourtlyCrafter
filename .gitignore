@@ -1,0 +1,6 @@
+*.bin
+*.safetensor
+*.safetensor~
+*.h5
+*.hdf5
+*.hdf5~
