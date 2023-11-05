@@ -1,2 +1,2 @@
 # CourtlyCrafter
- Language Model espicially train for Legal Domain
+Language Model espicially trained for the Legal Domain on vast legal corpus
