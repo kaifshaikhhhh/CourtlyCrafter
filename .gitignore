@@ -1,3 +1,4 @@
+# Files
 *.csv
 *.bin
 *.safetensor
@@ -5,4 +6,7 @@
 *.h5
 *.hdf5
 *.hdf5~
+
+# Folders
 .neptune
+.misc
